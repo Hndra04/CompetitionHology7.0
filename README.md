@@ -35,7 +35,6 @@ To run this project, you'll need:
    ```bash
    python predict.py --image_path path/to/your/image.jpg
 
-   or you can load model from model.zip
 
 ## Model Architecture
 The model is built on the VGG-16 architecture, which includes:
